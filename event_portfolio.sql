@@ -1,4 +1,4 @@
-#количество проведенных/отмененных мероприятий за февраль-март (статус active 1 или 0)
+#РєРѕР»РёС‡РµСЃС‚РІРѕ РїСЂРѕРІРµРґРµРЅРЅС‹С…/РѕС‚РјРµРЅРµРЅРЅС‹С… РјРµСЂРѕРїСЂРёСЏС‚РёР№ Р·Р° С„РµРІСЂР°Р»СЊ-РјР°СЂС‚ 2019
 select
 sch.id,
 sch.active,
@@ -12,4 +12,5 @@ left join vsm.event e on e.id = sch.event_id
 left join vsm.category c on c.id = e.category_id
 left join vsm.branch br on br.id = sch.branch_id
 where date_of between '2019-02-01 00:00:00' AND '2019-03-31 00:00:00'
+
 order by date_of
