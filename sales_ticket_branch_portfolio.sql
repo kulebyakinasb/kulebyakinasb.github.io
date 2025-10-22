@@ -1,4 +1,6 @@
-#продажи билетов по дням за март 2019 с разбивкой по площадкам (центр/филиалы)
+#пример запроса - продажи билетов по дням за март 2019 с разбивкой по площадкам (центр/филиалы)
+# полученные данные использованы для дашборда https://datalens.yandex.cloud/yxxth7p6melij
+  
 select CAST(b.created_at AS DATE) as date_of_sale,
 br.type,
 count(b.id) as count_ticket,
@@ -8,4 +10,5 @@ left join vsm.schedule s on s.id = b.schedule_id
 left join vsm.branch br on br.id = s.branch_id 
 where b.paid = 1 and CAST(b.created_at AS DATE) between '2019-03-01' AND '2019-03-31'
 group by CAST(b.created_at AS DATE), br.type
+
 
