@@ -1,4 +1,6 @@
-#количество проведенных/отмененных мероприятий за февраль-март 2019
+#пример запроса - количество проведенных/отмененных мероприятий за февраль-март 2019
+#полученные данные использованы для дашборда https://datalens.yandex.cloud/yxxth7p6melij
+  
 select
 sch.id,
 sch.active,
@@ -14,3 +16,4 @@ left join vsm.branch br on br.id = sch.branch_id
 where date_of between '2019-02-01 00:00:00' AND '2019-03-31 00:00:00'
 
 order by date_of
+
