@@ -6,7 +6,7 @@ I'm a analyst and marketing manager. Works in B2B and B2C (IT industry, GameDev,
 
 
 
-📌 Cohort analysis, ABC and XYS analysis
+📌 Cohort analysis, ABC, XYZ, RFM analysis
 
 🧠 Analysis of advertising campaigns and website users
 
