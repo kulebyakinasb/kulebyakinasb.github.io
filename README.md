@@ -9,5 +9,5 @@ I have been working for this company for the last few years.
 
 ## 🔗 Contacts
 ![Logo](https://vmestesmamoy.ru/img/tg.png) 
-t.me/kulebyakina_sb  
+[t.me/kulebyakina_sb](https://t.me/kulebyakina_sb)  
 kulebyakinasb@gmail.com
