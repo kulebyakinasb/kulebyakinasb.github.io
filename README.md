@@ -1,34 +1,13 @@
-# Hi everyone! (｡◕‿◕｡)
+# 📁Portfolio
+The portfolio is based on data from a company that has been organizing concerts and performances for parents and children in Moscow for over 15 year.
+I have been working for this company for the last few years.
 
+**Portfolio is icluded:**
+- Cohort analyze retention in Excel
+- Dashbords in Yandex DataLens with SQL
+- RFM analyze by Python
 
-
-I'm a analyst and marketing manager. Works in B2B and B2C (IT industry, GameDev, Medicine, Parents and child, Leisure sphere).
-
-
-
-📌 Cohort analysis, ABC, XYZ, RFM analysis
-
-🧠 Analysis of advertising campaigns and website users
-
-📊 Creating user-friendly dashboards and presentations
-
-💬 Development and support of marketing programs
-
-👯‍♀️ Organizing and conducting training for employees
-
-
-## ⚙ My skills include
-
-- SQL (PostgreSQL and MySQL)
-- Python (Pandas, Matplotlib, Seaborn)
-- Excel
-- Power BI, Yandex DataLens
-- Yandex.Metrika, Google Analytisc
-- PowerPoint, Canva
-- Tilda (creation and editing)
-- Database user (1C, Navision, Oracle)
-
-
-## 🔗 Links
+## 🔗 Contacts
 ![Logo](https://vmestesmamoy.ru/img/tg.png) 
-t.me/kulebyakina_sb
+t.me/kulebyakina_sb  
+kulebyakinasb@gmail.com
